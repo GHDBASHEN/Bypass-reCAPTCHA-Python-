@@ -65,4 +65,4 @@ Contributing
 If you find issues or have suggestions for improvements, feel free to open an issue or a pull request.
 
 License
-This project is licensed under the MIT License. See the LICENSE file for more details. """
+This project is licensed under the MIT License.
