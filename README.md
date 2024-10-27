@@ -27,8 +27,8 @@ This project leverages Selenium and the OpenAI Whisper model to transcribe audio
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone <https://github.com/GHDBASHEN/Bypass-reCAPTCHA-Python-.git>
+   cd <Bypass-reCAPTCHA-Python->
 Create a virtual environment:
 
 bash
