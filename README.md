@@ -27,8 +27,8 @@ This project leverages Selenium and the OpenAI Whisper model to transcribe audio
 
 1. **Clone the repository**:
    ```bash
-   git clone <https://github.com/GHDBASHEN/Bypass-reCAPTCHA-Python-.git>
-   cd <Bypass-reCAPTCHA-Python->
+   git clone https://github.com/GHDBASHEN/Bypass-reCAPTCHA-Python-.git
+   cd Bypass-reCAPTCHA-Python-
 Create a virtual environment:
 
 bash
@@ -63,6 +63,12 @@ FileNotFoundError: Ensure that ffmpeg is installed and added to your system's PA
 Driver Issues: Ensure that the correct version of ChromeDriver is installed and matches your Google Chrome version.
 Contributing
 If you find issues or have suggestions for improvements, feel free to open an issue or a pull request.
+
+![image](https://github.com/user-attachments/assets/75510eeb-d8b5-43ab-99f2-239a43b3e54a)
+
+![image](https://github.com/user-attachments/assets/49b300f4-7077-4925-bca5-53c9a04af1b9)
+
+
 
 License
 This project is licensed under the MIT License.
